@@ -5,7 +5,7 @@ module.exports = {
     description: `株を教えてくれる優しい友達`,
     siteUrl: `https://kabusuke.netlify.com/`,
     social: {
-      twitter: ``,
+      twitter: `sppimn`,
     },
   },
   plugins: [
