@@ -56,9 +56,7 @@ const Bio = () => {
       <p>
         カブスケは<strong>{author}</strong> が書いています。
         {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          ツイッターで担々麺たべてますが。
-        </a>
+        <a href="/">担々麺たべてますが。</a>
       </p>
     </div>
   )
